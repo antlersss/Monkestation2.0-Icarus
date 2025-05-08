@@ -1,0 +1,78 @@
+{
+	"version": 1,
+	"map_name": "Icarus",
+	"map_path": "map_files/Icarus",
+	"map_file": "icarus.dmm",
+
+	"space_ruin_levels": 0,
+	"space_empty_levels": 0,
+	"planetary": 1,
+	"particle_weathers": [
+    	"weather_snow"
+    ],
+
+	"shuttles": {
+		"cargo": "cargo_box",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_box",
+		"emergency": "emergency_box"
+	},
+	
+	"traits": [
+		{
+			"Up": true,
+			"Mining": true,
+			"Linkage": null,
+			"Gravity": true,
+			"Daycycle": true,
+			"Ice Ruins Underground": true,
+			"Baseturf": "/turf/open/lava/plasma/ice_moon",
+			"Forced Safety": true,
+			"No Parallax": true
+		},
+		{
+			"Down": true,
+			"Up": true,
+			"Mining": true,
+			"Linkage": null,
+			"Gravity": true,
+			"Daycycle": true,
+			"Baseturf": "/turf/open/openspace/icemoon/keep_below",
+			"No Parallax": true
+		},
+		{
+			"Down": true,
+			"Up": true,
+			"Linkage": null,
+			"Gravity": true,
+			"Daycycle": true,
+			"Baseturf": "/turf/open/openspace/icemoon/keep_below",
+			"No Parallax": true
+		},
+		{
+			"Down": true,
+			"Up": true,
+			"Linkage": null,
+			"Gravity": true,
+			"Daycycle": true,
+			"Baseturf": "/turf/open/openspace/icemoon/keep_below",
+			"No Parallax": true
+		},
+		{
+			"Down": true,
+			"Up": true,
+			"Linkage": null,
+			"Gravity": true,
+			"Daycycle": true,
+			"Baseturf": "/turf/open/openspace/icemoon/keep_below"
+		},
+		{
+			"Down": true,
+			"Linkage": null,
+			"Gravity": true,
+			"Daycycle": true,
+			"Baseturf": "/turf/open/openspace/icemoon/keep_below"
+		}
+	],
+	"blacklist_file": "iceruinblacklist.txt"
+}

@@ -19,7 +19,6 @@ map heliostation
 endmap
 
 map metastation
-	#default
 	minplayers 5
 	votable
 endmap
@@ -84,4 +83,9 @@ endmap
 map leadpoisoningstation
 	votable
 	minplayers 40
+endmap
+
+map icarus
+	#default
+	votable
 endmap
