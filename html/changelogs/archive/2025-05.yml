@@ -86,3 +86,11 @@
   - bugfix: a spelling mistake
   steelphoenix4:
   - bugfix: Fixed the Recolorable Oversized Jacket not being recolorable on lizards.
+2025-05-08:
+  Absolucy:
+  - bugfix: The pirate SMES are now magical instead of secretly infinite.
+  - bugfix: Fixed the Plasma Fixation symptom causing a lot of runtime errors in mice.
+  EssentialTomato:
+  - rscadd: Added a new completely heat insulated floor
+  flleeppyy:
+  - rscadd: added shion plush
